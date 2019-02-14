@@ -19,4 +19,8 @@ function cc(card) {
    if (count > 0) return count + " Bet";
    else return count + " Hold";
 
-cc(2); cc(3); cc(7); cc('K'); cc('A');"}
+cc(2);
+cc(3);
+cc(7);
+cc('K');
+cc('A');
